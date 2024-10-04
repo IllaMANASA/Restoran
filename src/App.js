@@ -18,7 +18,7 @@ function App() {
         <Container>
           <Navbar.Brand>
             <Link to="/" className='navbar-brand text-success fw-semibold'>
-              FlavorFiesta
+            Restoran
             </Link>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
@@ -44,7 +44,7 @@ function App() {
       </Routes>
 
       <footer className='bg-body-tertiary'>
-        <p className='p-3 m-0 text-center'>Copyright @ FlavorFiesta</p>
+        <p className='p-3 m-0 text-center'>All Rights Reserved &copy; Restoran 2024</p>
       </footer>
     </div>
   );

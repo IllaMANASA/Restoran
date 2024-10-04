@@ -16,7 +16,7 @@ function Home() {
                     <div className='row'>
                         <div className='col-sm-6 d-flex d-sm-block flex-column align-items-center'>
                             <h2 className='mb-0 text-yellow fw-bold'>Welcome To</h2>
-                            <h1 className='mb-5 text-black fw-bold text-center text-sm-start'>FlavorFiesta</h1>
+                            <h1 className='mb-5 text-black fw-bold text-center text-sm-start'>Restoran</h1>
                             <MenuBtn />
                         </div>
                     </div>
