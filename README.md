@@ -7,4 +7,3 @@
 * HTML
 * CSS
 * Javascript
-# Restoran
